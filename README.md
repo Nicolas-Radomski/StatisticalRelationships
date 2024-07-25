@@ -8,27 +8,45 @@ The repository StatisticalRelationships provides Python (recommended version 3.1
 - matplotlib==3.9.1
 # Recommended Python environment
 ## Download Miniconda for Ubuntu 20.04
+```
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O /opt/miniconda-installer.sh
+```
 ## Install Miniconda
+```
 bash /opt/miniconda-installer.sh
+```
 ## Update Conda
+```
 conda update --all
+```
 ## Create an environment
+```
 conda create --name py312 python=3.12
+```
 ## Activate the environment
+```
 conda activate py312
+```
 ## Check the Python version
+```
 python --version
+```
 ## Install a Python library
+```
 conda install pandas
 conda install numpy
 conda install conda-forge::dython
 conda install anaconda::pyqt
 conda install matplotlib
+```
 ## Check the list of Python libraries
+```
 conda list
+```
 ## Desactivate the environment after use
+```
 conda deactivate
+```
 # Examples of commands
 ## Correlations from numerical variables
 ```
