@@ -1,0 +1,6 @@
+	phenotype_A	phenotype_B	gene_A	gene_B	gene_C
+phenotype_A	1.0	1.0	1.0	0.31	0.46
+phenotype_B	0.67	1.0	0.67	0.31	0.35
+gene_A	1.0	1.0	1.0	0.31	0.46
+gene_B	0.31	0.47	0.31	1.0	0.11
+gene_C	0.46	0.53	0.46	0.11	1.0
