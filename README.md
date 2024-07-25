@@ -64,23 +64,23 @@ GC	contigs	N50	length	binar
 ```
 ## Associations from categorical variables
 ```
-phenotype_A	phenotype_B	gene_A	gene_B	gene_C
-fast	green	presence	absence	presence
-slow	red	absence	presence	absence
-fast	blue	presence	presence	presence
-slow	red	absence	absence	absence
-fast	blue	presence	presence	presence
-slow	red	absence	presence	absence
-fast	green	presence	absence	presence
-slow	red	absence	presence	absence
-fast	blue	presence	absence	presence
-slow	red	absence	presence	absence
-fast	blue	presence	absence	presence
-slow	red	absence	presence	absence
-fast	green	presence	absence	presence
-slow	red	absence	presence	absence
-fast	green	presence	absence	absence
-slow	red	absence	presence	presence
+phenotype_A	phenotype_B	gene_A		gene_B		gene_C
+fast		green		presence	absence	presence
+slow		red		absence	presence	absence
+fast		blue		presence	presence	presence
+slow		red		absence	absence	absence
+fast		blue		presence	presence	presence
+slow		red		absence	presence	absence
+fast		green		presence	absence	presence
+slow		red		absence	presence	absence
+fast		blue		presence	absence	presence
+slow		red		absence	presence	absence
+fast		blue		presence	absence	presence
+slow		red		absence	presence	absence
+fast		green		presence	absence	presence
+slow		red		absence	presence	absence
+fast		green		presence	absence	absence
+slow		red		absence	presence	presence
 ```
 # Expected output
 ## Correlations from numerical variables
