@@ -1,5 +1,5 @@
 # Usage
-The repository StatisticalRelationships provides Python (recommended version 3.12) scripts called Correlations.py and Associations.py to compute correlations (Pearson, Spearman or Kendall methods) or associations (Cramer’s V or Theil’s U association methods) across numerical or categorical variables, respectively.
+The repository StatisticalRelationships provides Python (recommended version 3.12) scripts called Correlations.py and Associations.py to compute correlations (Pearson, Spearman or Kendall methods) or associations (Cramer’s V or Theil’s U methods) across numerical or categorical variables, respectively.
 # Recommanded library versions
 - pandas==2.2.2
 - numpy==1.26.4
